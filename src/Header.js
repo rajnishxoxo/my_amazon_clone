@@ -8,7 +8,7 @@ function Header() {
     <div className="Header__main">
       <img
         className="head__logo"
-        src="https://images.indianexpress.com/2015/05/amazon-logo-759.jpg"
+        src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
       />
       {/* header white big prod uct search bar*/}
       <div className="header__search">
